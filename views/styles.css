@@ -1,0 +1,27 @@
+#image_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    flex-direction: 100vh;
+    
+}
+#display_image{
+    padding-left: 300px;
+    width: 1100px;
+    height: 411px;
+    border:1px solid black;
+    background-position: center;
+    background-size: cover;
+    
+}
+#role1{
+    padding: 10px;
+    padding-left: 100px;
+    border: none;
+}#spec{
+    background-color:  #5c48ee;
+    padding: 10px;
+   color: white;
+   font-size: medium;
+}
